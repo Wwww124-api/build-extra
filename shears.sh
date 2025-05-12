@@ -1,3 +1,4 @@
+https://github.com/enterprises/httpsgithubcomgityouniform
 #!/bin/sh
 #
 # This script intends to help rebasing a "thicket of branches", i.e. a branch
